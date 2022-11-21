@@ -68,7 +68,7 @@ const MovieItems = (props) => {
         <p>{overview}</p>
         <a href={url} target="_blank" rel="noreferrer">
             <DownloadIcon className="downl" /></a>
-          
+                  
     
       </div>
     </div>

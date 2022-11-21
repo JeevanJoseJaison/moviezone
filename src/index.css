@@ -71,3 +71,25 @@ overflow: hidden;
 .downl{
   color: red;
 }
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: relative;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+  }
+  .footer button{
+    border-radius: 5px;
+    color: rgba(16, 1, 1, 0.826);
+   
+    border-style:none;
+  
+    margin: 3px;
+   background-color:aquamarine
+  }
+
